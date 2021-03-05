@@ -1,2 +1,2 @@
 # sinatra_practice
-a small sinatra drill to strengthen understanding
+Why is this formatting strangely? 
